@@ -8,6 +8,9 @@
 ## Como testar
 
 ```
+Importar no insomnia
+https://github.com/Thav0/laravel-test/blob/master/Insomnia_2020-10-30.json
+
 composer install
 
 Criar DB no Mysql com o mesmo nome do .env.example
