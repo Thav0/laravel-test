@@ -5,10 +5,7 @@
 - Compra de produtos. (Comprador)
 - Minhas vendas. (Vendedor)
 
-
-### **Como rodar o teste**
-
-## Server
+## Como testar
 
 ```
 composer install
